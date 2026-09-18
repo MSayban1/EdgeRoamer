@@ -33,10 +33,10 @@ There is no Selenium, no WebDriver, and no browser automation framework involved
 
 ```
 EdgeRoamer/
-├── edge_bot.py     # Main automation script
-├── topics.txt      # List of search topics, one per line
-├── README.md       # Project documentation
-└── LICENSE         # MIT License
+├── edge_bot.py     Main automation script
+├── topics.txt      List of search topics, one per line
+├── README.md       Project documentation
+└── LICENSE         MIT License
 ```
 
 ---
@@ -56,7 +56,7 @@ EdgeRoamer/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/EdgeRoamer.git
+git clone https://github.com/MSayban1/EdgeRoamer.git
 cd EdgeRoamer
 ```
 
